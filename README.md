@@ -1,4 +1,4 @@
 # lecture-2-repo
-This is a repository of lecture 2
-Hello there , i am learning git
-this is my first repository and is about learning commit , pull , push etc. 
+1. This is a repository of lecture 2
+1. Hello there , i am learning git
+1. this is my first repository and is about learning commit , pull , push etc.
